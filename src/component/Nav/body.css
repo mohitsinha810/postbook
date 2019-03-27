@@ -1,0 +1,15 @@
+.nis2 {
+  width: 750px;
+  height: 200px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  margin-top: 200px;
+  margin-left: 250px;
+  margin-right: 250px;
+  font-size: 25px;
+  color: gold;
+  text-align: center;
+  padding: 70px 40px;
+  font-family: Georgia;
+}

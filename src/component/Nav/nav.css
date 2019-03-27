@@ -1,0 +1,13 @@
+.outer {
+  padding: 30px 50px;
+  background-color: rgb(81, 156, 87);
+}
+
+.ls {
+  padding-right: 50px;
+  padding-top: 50px;
+}
+
+.margin-left {
+  margin: 10px;
+}
